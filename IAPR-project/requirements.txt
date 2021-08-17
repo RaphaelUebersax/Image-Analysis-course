@@ -1,0 +1,9 @@
+opencv-python
+sympy
+math
+scikit-image
+scikit-learn
+os
+pandas
+numpy
+pickle
